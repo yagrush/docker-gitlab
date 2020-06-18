@@ -14,8 +14,8 @@
 
 ## 0. ダウンロード
 ```shell script
-git clone このリポジトリ
-cd cloneしたディレクトリ
+wget https://github.com/yagrush/docker-gitlab/archive/master.zip -O docker-gitlab.zip; unzip docker-gitlab.zip; rm docker-gitlab.zip
+cd docker-gitlab-master
 ```
 
 ## 1. ポート:80 を他のソフトウェアですでに使用していたら
