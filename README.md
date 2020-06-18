@@ -12,7 +12,7 @@
 
 # 使い方
 
-## 0. ダウンロード
+## 0. ダウンロードする
 ```shell script
 wget https://github.com/yagrush/docker-gitlab/archive/master.zip -O docker-gitlab.zip; unzip docker-gitlab.zip; rm docker-gitlab.zip
 cd docker-gitlab-master
@@ -32,7 +32,7 @@ cd docker-gitlab-master
 ```
 とか他の番号に変えてあげてください。
 
-## 2. ビルド＆起動
+## 2. ビルド＆起動する
 ```shell script
 docker-compose up -d
 ```
