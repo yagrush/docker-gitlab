@@ -7,14 +7,16 @@
     * Docker
     * docker-compose
 
-ちなみにWindowsではうまく動きませんでした。
+ちなみにWindowsではうまく動きませんでした。<br />
 時間があるときにまた調べてみようかな。
-
+<br />
 # 使い方
 
 ## 0. ダウンロードする
 ```shell script
 wget https://github.com/yagrush/docker-gitlab/archive/master.zip -O docker-gitlab.zip; unzip docker-gitlab.zip; rm docker-gitlab.zip
+
+#ついでにディレクトリを移動しておく
 cd docker-gitlab-master
 ```
 
