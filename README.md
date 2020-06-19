@@ -15,7 +15,7 @@ Linux(on AWS)は「無料でええやろ」ってt2.microとかでやってて�
 <br />
 # 使い方
 
-## 0. ダウンロードする
+## 0. Docker設定ファイル一式をダウンロードする
 ```shell script
 wget https://github.com/yagrush/docker-gitlab/archive/master.zip -O docker-gitlab.zip; unzip docker-gitlab.zip; rm docker-gitlab.zip
 
