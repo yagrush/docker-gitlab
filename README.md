@@ -8,7 +8,9 @@
     * docker-compose
 
 MacとLinux(on AWS)で動作確認済です。<br />
-Linux(on AWS)は「無料でええやろ」ってt2.microとかでやってて、「なんで動かねんだぁ…」ってハマりました…
+
+Linux(on AWS)は「無料でええやろ」ってt2.microとかでやってて、「なんで動かねんだぁ…」ってハマりました…<br />
+t2.large（メモリ8GiB）にしたら無事動作。
 
 ちなみにWindowsではうまく動きませんでした。<br />
 時間があるときにまた調べてみようかな。
