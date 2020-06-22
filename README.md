@@ -19,7 +19,7 @@ t2.large（メモリ8GiB）にしたら無事動作。
 
 ## 0. 構築セット一式をダウンロードする
 ```shell script
-wget https://github.com/yagrush/docker-gitlab/archive/master.zip -O docker-gitlab.zip; unzip docker-gitlab.zip; rm docker-gitlab.zip
+wget https://github.com/yagrush/docker-gitlab/archive/master.zip -O docker-gitlab.zip; unzip docker-gitlab.zip; rm -f docker-gitlab.zip
 
 #ついでにディレクトリを移動しておく
 cd docker-gitlab-master
